@@ -1,0 +1,9 @@
+.container__home{
+    display: flex;
+    flex-direction: column;
+}
+.container__home-cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
